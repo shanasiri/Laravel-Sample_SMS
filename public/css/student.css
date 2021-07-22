@@ -1,0 +1,13 @@
+th {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: #f3f3f3;
+}
